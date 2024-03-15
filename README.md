@@ -15,8 +15,10 @@ Certifique-se de ter o Node.js e o TypeScript instalados em seu sistema. Você p
 ## Passos para Execução
 
 1. **Criação do Arquivo TypeScript:**
-   - Clone o arquivo em algum repositório de seu computador de sua preferência utilizando o comando `git clone https://github.com/jaqueslucas/est-_dados_2024_01.git`.
-
+   - Clone o arquivo em algum repositório de seu computador de sua preferência utilizando o comando:
+     ```
+     git clone https://github.com/jaqueslucas/est-_dados_2024_01.git
+     ```
 2. **Compilação do Código TypeScript:**
    - Abra o terminal (ou prompt de comando) e navegue até o diretório onde você salvou o arquivo `.ts`.
    - Execute o comando abaixo para compilar o código TypeScript em JavaScript:
