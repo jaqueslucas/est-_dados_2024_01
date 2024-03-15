@@ -18,6 +18,7 @@ function fibonacciRecursivoMemoria(n: number, memo: Record<number, number> = {})
     }
 }
 
+
 const n = 7;
 console.log(`Fibonacci recursivo simples para n=${n}: ${fibonacciRecursivoSimples(n)}`);
 console.log(`Fibonacci recursivo com memória para n=${n}: ${fibonacciRecursivoMemoria(n)}`);
